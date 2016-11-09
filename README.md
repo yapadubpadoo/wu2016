@@ -63,11 +63,11 @@ pip install virtualenv
 ```bash
 virtualenv env
 ```
-Activate env(Mac/Linux)
+Activate env (Mac/Linux)
 ```
 . env/bin/activate
 ```
-Activate env(Windows)
+Activate env (Windows)
 ```
 env\scripts\activate
 ```
