@@ -93,3 +93,10 @@ robot --version
 Robot Framework 3.0 (Python 3.5.1 on darwin)
 ```
 You should see the version of installed Robot Framework on your machine
+
+## Download Browsers drivers
+### Chrome driver
+https://sites.google.com/a/chromium.org/chromedriver/
+### Internet Explorer
+http://www.seleniumhq.org/download/
+
