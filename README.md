@@ -32,7 +32,7 @@ pip 9.0.1 from C:\Python34\lib\site-packages (python 3.4)
 ```
 You should see the version of installed PIP on your machine
 
-### Mac OS/Linux
+### MacOS/Linux
 ```bash
 wget https://bootstrap.pypa.io/get-pip.py && sudo python get-pip.py
 pip --version
