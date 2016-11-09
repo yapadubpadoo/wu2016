@@ -7,7 +7,7 @@ Note:
 
 - For Windows, you have to remember Python installation path to use in the next step
 
-### Setup PATH environment varable for Windows
+### Setup PATH environment variable for Windows
 1. Press "Windows + Pause"
 2. Click "Advance System Settings"
 3. Click "Environment Variables"
