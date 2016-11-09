@@ -2,7 +2,9 @@
 
 ## Install Python 3.4
 https://www.python.org/downloads/
+
 Note:
+
 - For Windows, you have to remember Python installation path to use in the next step
 
 ### Setup PATH environment varable for Windows
