@@ -37,7 +37,7 @@ wget https://bootstrap.pypa.io/get-pip.py && sudo python get-pip.py
 python get-pip.py
 ```
 
-### Verrify installed PIP
+### Verify installed PIP
 1. Open terminal
 2. Run `pip --version`
 ```bash
