@@ -1,5 +1,4 @@
-# ATDD with Robot Framework
-# TDD with Python
+# ATDD using Robot Framework and TDD with Python
 
 ## Install Python 3.4
 https://www.python.org/downloads/
